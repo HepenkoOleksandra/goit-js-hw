@@ -538,22 +538,22 @@
 // console.log(result);
 
 
-function findNumber(start, end, divisor) {
-  // let number = 0;
-  for (let i = start; i <= end; i++) {
-    if (i % divisor === 0) {
-      // number = i;
-      return i;
-    }
-  }
-}
-const result1 = findNumber(2, 6, 5);// 5
-console.log(result1);
-const result2 = findNumber(8, 17, 3);// 9
-console.log(result2);
-const result3 = findNumber(6, 9, 4);// 8
-console.log(result3);
-const result4 = findNumber(16, 35, 7);// 21
-console.log(result4);
-const result5 = findNumber();// з випадковим набором чисел повертає правильний результат
-console.log(result5);
+// function findNumber(start, end, divisor) {
+//   // let number = 0;
+//   for (let i = start; i <= end; i++) {
+//     if (i % divisor === 0) {
+//       // number = i;
+//       return i;
+//     }
+//   }
+// }
+// const result1 = findNumber(2, 6, 5);// 5
+// console.log(result1);
+// const result2 = findNumber(8, 17, 3);// 9
+// console.log(result2);
+// const result3 = findNumber(6, 9, 4);// 8
+// console.log(result3);
+// const result4 = findNumber(16, 35, 7);// 21
+// console.log(result4);
+// const result5 = findNumber();// з випадковим набором чисел повертає правильний результат
+// console.log(result5);
